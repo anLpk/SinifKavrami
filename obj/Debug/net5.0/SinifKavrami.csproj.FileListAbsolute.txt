@@ -1,0 +1,16 @@
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\bin\Debug\net5.0\SinifKavrami.exe
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\bin\Debug\net5.0\SinifKavrami.deps.json
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\bin\Debug\net5.0\SinifKavrami.runtimeconfig.json
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\bin\Debug\net5.0\SinifKavrami.runtimeconfig.dev.json
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\bin\Debug\net5.0\SinifKavrami.dll
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\bin\Debug\net5.0\ref\SinifKavrami.dll
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\bin\Debug\net5.0\SinifKavrami.pdb
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\obj\Debug\net5.0\SinifKavrami.csproj.AssemblyReference.cache
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\obj\Debug\net5.0\SinifKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\obj\Debug\net5.0\SinifKavrami.AssemblyInfoInputs.cache
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\obj\Debug\net5.0\SinifKavrami.AssemblyInfo.cs
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\obj\Debug\net5.0\SinifKavrami.csproj.CoreCompileInputs.cache
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\obj\Debug\net5.0\SinifKavrami.dll
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\obj\Debug\net5.0\ref\SinifKavrami.dll
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\obj\Debug\net5.0\SinifKavrami.pdb
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\SinifKavrami\obj\Debug\net5.0\SinifKavrami.genruntimeconfig.cache
