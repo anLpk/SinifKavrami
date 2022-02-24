@@ -11,11 +11,11 @@ namespace SinifKavrami
           // 3. Internal : Sadece bulunduğu proje içerisinden erişilebilir
           //4. Protected : Sadece tanımlandığı sınıfta ya da o sınıfı miras alan sınıflardan erişilebilir.
 
-          Calisan calisan1 = new Calisan();
-          calisan1.Ad = "Anil";
-          calisan1.Soyad = "Pak";
-          calisan1.No = 12345678;
-          calisan1.Department = "IT";
+          Calisan calisan1 = new Calisan("Anil", "Pak", 12345678, "IT");
+          // calisan1.Ad = "Anil";
+          // calisan1.Soyad = "Pak";
+          // calisan1.No = 12345678;
+          // calisan1.Department = "IT";
 
           calisan1.CalisanBilgileri();
         }
@@ -27,6 +27,16 @@ namespace SinifKavrami
         public string Soyad;
         public int No;
         public string Department;
+
+        public Calisan(string ad, string soyad, int no, string department)
+        {
+            this.Ad = ad;
+            this.Soyad = soyad;
+            this.No = no;
+            this.Department = department;
+        }
+
+        //Ayni isim ile farkli argumanlar alan constructorlar olusuturulabilir ve over loading yapilabilir.
 
         public void CalisanBilgileri()
         {
