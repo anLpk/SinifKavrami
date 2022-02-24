@@ -6,6 +6,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) C# 101 egitimi kapsaminda olus
 
 ### Kurucu Metodlar
 
+### Encapsulation
+
 ---
 
 ## Installation
